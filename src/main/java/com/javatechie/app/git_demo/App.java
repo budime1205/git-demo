@@ -17,6 +17,9 @@ public class App {
 		   System.out.println("dont welcome");
 	   }
 	   
+	   if(data.equals("java techie1")) {
+		   System.out.println("welcome");
+	   }
 	   
       }
 
