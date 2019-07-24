@@ -10,6 +10,11 @@ public class App {
 
     public void appData(String data){
 	   System.out.println("data"+data);
+	   
+	   if(data.equals("java techie")) {
+		   System.out.println("welcome");
+	   }
+	   
       }
 
 
