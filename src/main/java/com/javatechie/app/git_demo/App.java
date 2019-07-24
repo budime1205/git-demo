@@ -13,7 +13,10 @@ public class App {
 	   
 	   if(data.equals("java techie")) {
 		   System.out.println("welcome");
+	   }else {
+		   System.out.println("dont welcome");
 	   }
+	   
 	   
       }
 
