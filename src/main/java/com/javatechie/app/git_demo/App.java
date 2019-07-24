@@ -19,7 +19,10 @@ public class App {
 	   
 	   if(data.equals("java techie1")) {
 		   System.out.println("welcome");
+		   System.out.println("Welcome to git repository - Manjula ");
 	   }
+	   
+	   
 	   
       }
 
